@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "codes": {
+    "PERM01X9KL2M3N4P": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
+    "PERM02Q5RT7V8W9Y": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
+    "YEAR01D2FG3H4J5K": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
+    "YEAR02L7MN8P9Q2R": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
+    "HALF01Q5RS6T7V8W": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
+    "HALF02X2YZ3A4B5C": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" }
+  }
+} 
