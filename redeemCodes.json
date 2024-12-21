@@ -1,65 +1,35 @@
 {
   "version": "1.0.0",
   "codes": {
-    "PERM01X9KL2M3N4P": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM02Q5RT7V8W9Y": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM03A2CD4F6H7J": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM04K8MN9P2Q3R": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM05S6TV7W8X9Y": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM06B3CD5F6G7H": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM07J9KL2M4N5P": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM08Q6RS7T9V2W": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM09X3YZ4A5B6C": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM10D7FG8H9J2K": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM11L4MN5P6Q7R": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM12S8TV9W2X3Y": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM13Z5AB6C7D8F": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM14G2HJ3K4L5M": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM15N7PQ8R9S2T": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM16V3WX4Y5Z6A": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM17B8CD9F2G3H": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM18J4KL5M6N7P": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM19Q9RS2T3V4W": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "PERM20X5YZ6A7B8C": { "type": "permanent", "duration": -1, "name": "永久无限导出特权" },
-    "YEAR01D2FG3H4J5K": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR02L7MN8P9Q2R": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR03S3TV4W5X6Y": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR04Z8AB9C2D3F": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR05G4HJ5K6L7M": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR06N9PQ2R3S4T": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR07V5WX6Y7Z8A": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR08B2CD3F4G5H": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR09J7KL8M9N2P": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR10Q3RS4T5V6W": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR11X8YZ9A2B3C": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR12D4FG5H6J7K": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR13L9MN2P3Q4R": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR14S5TV6W7X8Y": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR15Z2AB3C4D5F": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR16G7HJ8K9L2M": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR17N3PQ4R5S6T": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR18V8WX9Y2Z3A": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR19B4CD5F6G7H": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "YEAR20J9KL2M3N4P": { "type": "yearly", "duration": 365, "name": "一年无限导出特权" },
-    "HALF01Q5RS6T7V8W": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF02X2YZ3A4B5C": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF03D7FG8H9J2K": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF04L3MN4P5Q6R": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF05S8TV9W2X3Y": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF06Z4AB5C6D7F": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF07G9HJ2K3L4M": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF08N5PQ6R7S8T": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF09V2WX3Y4Z5A": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF10B7CD8F9G2H": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF11J3KL4M5N6P": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF12Q8RS9T2V3W": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF13X4YZ5A6B7C": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF14D9FG2H3J4K": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF15L5MN6P7Q8R": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF16S2TV3W4X5Y": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF17Z7AB8C9D2F": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF18G3HJ4K5L6M": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF19N8PQ9R2S3T": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" },
-    "HALF20V4WX5Y6Z7A": { "type": "half-year", "duration": 180, "name": "半年无限导出特权" }
+    "PERM01X9KL2M3N4P": {
+      "type": "permanent",
+      "duration": -1,
+      "name": "永久无限导出特权"
+    },
+    "PERM02Q5RT7V8W9Y": {
+      "type": "permanent",
+      "duration": -1,
+      "name": "永久无限导出特权"
+    },
+    "YEAR01D2FG3H4J5K": {
+      "type": "yearly",
+      "duration": 365,
+      "name": "一年无限导出特权"
+    },
+    "YEAR02L7MN8P9Q2R": {
+      "type": "yearly",
+      "duration": 365,
+      "name": "一年无限导出特权"
+    },
+    "HALF01Q5RS6T7V8W": {
+      "type": "half-year",
+      "duration": 180,
+      "name": "半年无限导出特权"
+    },
+    "HALF02X2YZ3A4B5C": {
+      "type": "half-year",
+      "duration": 180,
+      "name": "半年无限导出特权"
+    }
   }
 } 
